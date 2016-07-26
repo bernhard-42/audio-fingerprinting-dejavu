@@ -1,6 +1,7 @@
-### Add musicg
+### Add musicg 
+Source: [https://github.com/loisaidasam/musicg](https://github.com/loisaidasam/musicg), formerly [https://code.google.com/archive/p/musicg/](https://code.google.com/archive/p/musicg/)
 
-	git clone https://github.com/worldveil/dejavu.git
+	git clone https://github.com/loisaidasam/musicg.git
 
 ### Compile 
 
