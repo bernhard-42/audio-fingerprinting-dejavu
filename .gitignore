@@ -1,0 +1,7 @@
+.DS_Store
+.ensime
+target
+project/target
+project/project/target
+db.json
+musicg
